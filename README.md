@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Jasurbek Yusupov
-- 👀 I’m interested in Mobile Developer
+# 👋 Salom! Men Ali
 
-<!---
-Jasurbek2012/Jasurbek2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Dasturiy ta'minot ishlab chiquvchisi
+
+💻 Python | JavaScript | React | Node.js
+
+🎥 Quyidagi videolarda ishlarim bilan tanishing:
+
+[![My Project Demo](https://img.youtube.com/vi/VIDEOKOD/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEOKOD)
