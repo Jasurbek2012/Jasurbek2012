@@ -1,8 +1,8 @@
-# 👋 Salom! Men Ali
+# 👋 Hello! My name is Jasurbek
 
-🎓 Dasturiy ta'minot ishlab chiquvchisi
+🎓 I am Mobile Developer(Dart, Flutter)
 
-💻 Python | JavaScript | React | Node.js
+💻 Dart | Flutter | Android | IOS
 
 🎥 Quyidagi videolarda ishlarim bilan tanishing:
 
